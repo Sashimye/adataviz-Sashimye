@@ -10,8 +10,8 @@ Site web affichant les **toilettes publiques de Paris** via l’[API OpenData Pa
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/sammykelly/adataviz-sammykelly.git
-cd adataviz-sammykelly
+git clone https://github.com/sammykelly/adataviz-Sashimye.git
+cd adataviz-sashimye
 pnpm install
 pnpm dev
 ```
@@ -36,8 +36,7 @@ pnpm dev
 
 ## 📡 API
 
-[Toilettes publiques à Paris](https://opendata.paris.fr/explore/dataset/sanisette/table/)  
-Endpoint : `https://data.paris.fr/api/explore/v2.1/catalog/datasets/sanisette/records`
+[Toilettes publiques à Paris](https://opendata.paris.fr/explore/dataset/sanisette/table/)
 
 ***
 
