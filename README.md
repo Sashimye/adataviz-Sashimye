@@ -3,7 +3,7 @@
 Projet individuel (2 semaines) — **Ada Tech School**  
 Site web affichant les **toilettes publiques de Paris** via l’[API OpenData Paris](https://opendata.paris.fr/).
 
-🔗 [Démo](https://ton-lien.netlify.app) -  📂 Repo : `adataviz-sammykelly`
+🔗 [Démo](https://ton-lien.netlify.app) -  📂 Repo : `adataviz-Sashimye`
 
 ***
 
