@@ -1,0 +1,445 @@
+{
+    "total_count": 588,
+    "results": [
+        {
+            "type": "Sanisette",
+            "statut": "En service",
+            "adresse": "36 bd de sebastopol",
+            "arrondissement": "75004",
+            "horaire": "06h00 - 22h00",
+            "acces_pmr": "Oui",
+            "relais_bebe": "Non",
+            "url_fiche_equipement": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.35003599988823, 48.86155799965233],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.35003599988823,
+                "lat": 48.86155799965233
+            }
+        },
+        {
+            "type": "Sanisette",
+            "statut": "En service",
+            "adresse": "10 avenue de l observatoire",
+            "arrondissement": "75006",
+            "horaire": "Horaires du parc",
+            "acces_pmr": "Oui",
+            "relais_bebe": "Non",
+            "url_fiche_equipement": "https://www.paris.fr/lieux/jardin-des-grands-explorateurs-marco-polo-et-cavelier-de-la-salle-2834",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.337260643906852, 48.84221838628398],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.337260643906852,
+                "lat": 48.84221838628398
+            }
+        },
+        {
+            "type": "Sanisette",
+            "statut": "En service",
+            "adresse": "93b bd du montparnasse",
+            "arrondissement": "75006",
+            "horaire": "06h00 - 22h00",
+            "acces_pmr": "Non",
+            "relais_bebe": "Non",
+            "url_fiche_equipement": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.3275829994274915, 48.84286800014476],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3275829994274915,
+                "lat": 48.84286800014476
+            }
+        },
+        {
+            "type": "Sanisette",
+            "statut": "En service",
+            "adresse": "135b bd du montparnasse",
+            "arrondissement": "75006",
+            "horaire": "06h00 - 22h00",
+            "acces_pmr": "Oui",
+            "relais_bebe": "Non",
+            "url_fiche_equipement": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.332351000486413, 48.84122000004061],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.332351000486413,
+                "lat": 48.84122000004061
+            }
+        },
+        {
+            "type": "WC",
+            "statut": "En service",
+            "adresse": "6v quai anatole france",
+            "arrondissement": "75007",
+            "horaire": "10h00 - 18h0030",
+            "acces_pmr": "Oui",
+            "relais_bebe": "Non",
+            "url_fiche_equipement": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.3196494118205013, 48.86261171554387],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3196494118205013,
+                "lat": 48.86261171554387
+            }
+        },
+        {
+            "type": "Sanisette",
+            "statut": "En service",
+            "adresse": "2t pl joffre",
+            "arrondissement": "75007",
+            "horaire": "24/24h",
+            "acces_pmr": "Oui",
+            "relais_bebe": "Non",
+            "url_fiche_equipement": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.3051089994689358, 48.85433100021918],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3051089994689358,
+                "lat": 48.85433100021918
+            }
+        },
+        {
+            "type": "Sanisette",
+            "statut": "En service",
+            "adresse": "1 av de verdun",
+            "arrondissement": "75010",
+            "horaire": "24/24h",
+            "acces_pmr": "Oui",
+            "relais_bebe": "Non",
+            "url_fiche_equipement": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.3614029999510397, 48.87629499978287],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3614029999510397,
+                "lat": 48.87629499978287
+            }
+        },
+        {
+            "type": "Sanisette",
+            "statut": "En service",
+            "adresse": "81b bd de la villette",
+            "arrondissement": "75010",
+            "horaire": "06h00 - 22h00",
+            "acces_pmr": "Oui",
+            "relais_bebe": "Non",
+            "url_fiche_equipement": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.3708719998770422, 48.87743100005244],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3708719998770422,
+                "lat": 48.87743100005244
+            }
+        },
+        {
+            "type": "Sanisette",
+            "statut": "En service",
+            "adresse": "96 rue oberkampf",
+            "arrondissement": "75011",
+            "horaire": "06h00 - 22h00",
+            "acces_pmr": "Oui",
+            "relais_bebe": "Non",
+            "url_fiche_equipement": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.37761300023142, 48.86576100043247],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.37761300023142,
+                "lat": 48.86576100043247
+            }
+        },
+        {
+            "type": "WC",
+            "statut": "En service",
+            "adresse": "30 rue du rendez-vous",
+            "arrondissement": "75012",
+            "horaire": "Horaires du parc",
+            "acces_pmr": "Oui",
+            "relais_bebe": "Non",
+            "url_fiche_equipement": "https://www.paris.fr/lieux/jardin-debergue-rendez-vous-2848",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.4039110734655846, 48.84657172830047],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.4039110734655846,
+                "lat": 48.84657172830047
+            }
+        },
+        {
+            "type": "Sanisette",
+            "statut": "En service",
+            "adresse": "2 v bd de reuilly",
+            "arrondissement": "75012",
+            "horaire": "06h00 - 22h00",
+            "acces_pmr": "Oui",
+            "relais_bebe": "Non",
+            "url_fiche_equipement": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.389580000482424, 48.838922999875344],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.389580000482424,
+                "lat": 48.838922999875344
+            }
+        },
+        {
+            "type": "Sanisette",
+            "statut": "En service",
+            "adresse": "12 rue de lyon",
+            "arrondissement": "75012",
+            "horaire": "06h00 - 22h00",
+            "acces_pmr": "Oui",
+            "relais_bebe": "Non",
+            "url_fiche_equipement": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.37180299975841, 48.847455999950604],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.37180299975841,
+                "lat": 48.847455999950604
+            }
+        },
+        {
+            "type": "Sanisette",
+            "statut": "En service",
+            "adresse": "2 rue paul dukas",
+            "arrondissement": "75012",
+            "horaire": "06h00 - 22h00",
+            "acces_pmr": "Oui",
+            "relais_bebe": "Non",
+            "url_fiche_equipement": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.392042000365784, 48.840502999686144],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.392042000365784,
+                "lat": 48.840502999686144
+            }
+        },
+        {
+            "type": "WC",
+            "statut": "En service",
+            "adresse": "93 rue du chateau des rentiers",
+            "arrondissement": "75013",
+            "horaire": "Horaires du parc",
+            "acces_pmr": "Non",
+            "relais_bebe": "Non",
+            "url_fiche_equipement": "https://www.paris.fr/lieux/square-florence-blumenthal-2523",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.3673178731393754, 48.827498385447356],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3673178731393754,
+                "lat": 48.827498385447356
+            }
+        },
+        {
+            "type": "WC",
+            "statut": "En service",
+            "adresse": "22 rue de la fontaine a mulard",
+            "arrondissement": "75013",
+            "horaire": "Horaires du parc",
+            "acces_pmr": "Non",
+            "relais_bebe": "Non",
+            "url_fiche_equipement": "https://www.paris.fr/lieux/square-paul-grimault-2567",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.3485091460670224, 48.82302967544841],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3485091460670224,
+                "lat": 48.82302967544841
+            }
+        },
+        {
+            "type": "Sanisette",
+            "statut": "En service",
+            "adresse": "1 rue jean rey",
+            "arrondissement": "75015",
+            "horaire": "24/24h",
+            "acces_pmr": "Oui",
+            "relais_bebe": "Non",
+            "url_fiche_equipement": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.2898729994070504, 48.85555399956984],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.2898729994070504,
+                "lat": 48.85555399956984
+            }
+        },
+        {
+            "type": "Sanisette",
+            "statut": "En service",
+            "adresse": "22 rue gros",
+            "arrondissement": "75016",
+            "horaire": "06h00 - 22h00",
+            "acces_pmr": "Oui",
+            "relais_bebe": "Non",
+            "url_fiche_equipement": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.2753980004073235, 48.85125999992028],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.2753980004073235,
+                "lat": 48.85125999992028
+            }
+        },
+        {
+            "type": "WC",
+            "statut": "En service",
+            "adresse": "93 avenue de l' hippodrome",
+            "arrondissement": "75016",
+            "horaire": "Horaires du parc",
+            "acces_pmr": "Non",
+            "relais_bebe": "Oui",
+            "url_fiche_equipement": "https://www.paris.fr/lieux/parc-de-bagatelle-1808",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.24571855392109, 48.868443030700334],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.24571855392109,
+                "lat": 48.868443030700334
+            }
+        },
+        {
+            "type": "Sanisette",
+            "statut": "En service",
+            "adresse": "3 av de la porte des ternes",
+            "arrondissement": "75017",
+            "horaire": "06h00 - 22h00",
+            "acces_pmr": "Oui",
+            "relais_bebe": "Non",
+            "url_fiche_equipement": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.2829540000409247, 48.8811389996345],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.2829540000409247,
+                "lat": 48.8811389996345
+            }
+        },
+        {
+            "type": "Sanisette",
+            "statut": "En service",
+            "adresse": "186 bd ney",
+            "arrondissement": "75018",
+            "horaire": "24/24h",
+            "acces_pmr": "Oui",
+            "relais_bebe": "Non",
+            "url_fiche_equipement": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.329484000444752, 48.897914000345686],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.329484000444752,
+                "lat": 48.897914000345686
+            }
+        }
+    ]
+}
